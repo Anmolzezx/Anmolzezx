@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Singh</h1>
-<h3 align="center">A React Native Developer from India</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolzezx&label=Profile%20views&color=0e75b6&style=flat" alt="anmolzezx" /> </p>
-
-
-- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **anmolsingh80413@gmail.com**
 
