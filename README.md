@@ -1,20 +1,130 @@
 <h1 align="center">Hi 👋, I'm Anmol Singh</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Full-Stack & Mobile Developer | React Native · Next.js · Node.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolzezx&label=Profile%20views&color=0e75b6&style=flat" alt="anmolzezx" /> </p>
-
-- 📫 How to reach me **anmolsingh80413@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anmol_zez20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anmol_zez20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anmolsingh2060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmolsingh2060" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anmolzezx&label=Profile%20views&color=0e75b6&style=flat" alt="anmolzezx" />
+  <a href="https://codeforces.com/profile/Hunter786"><img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201464-1F8ACB?style=flat&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/anmol_zezx"><img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolzezx&show_icons=true&locale=en&layout=compact" alt="anmolzezx" /></p>
+## 👨‍💻 About Me
 
+- 🎓 B.Tech in **Computer Science & Engineering** at JSS Academy of Technical Education, Noida (2022–2026)
+- 💼 Currently working as **SDE Intern at Instafix**, Gurugram
+- 🚀 Passionate about building **cross-platform mobile apps** and **scalable full-stack systems**
+- 🏆 **Codeforces Specialist** (Max Rating: 1464 | Top 30% globally), solved **500+ DSA problems**
+- 📫 Reach me at **anmolsingh80413@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolzezx&" alt="anmolzezx" /></p>
+---
+
+## 💼 Experience
+
+**🔧 Instafix — Software Development Engineer Intern** *(Feb 2026 – Present | Gurugram, Onsite)*
+- Built a React Native diagnostics app for iOS with 20+ reusable UI components across 3 core modules
+- Developed a technician activity tracking app with real-time job monitoring via Google Maps API, reducing update time by **40%**
+- Integrated REST APIs with JWT authentication and AWS cloud services across 10+ endpoints
+- Built a Next.js + TypeScript web platform for online booking/repair with 10+ responsive screens, improving render speed by **30%**
+
+**🔧 Zarle Infotech — Software Developer Intern** *(Aug 2025 – Nov 2025 | Noida, Onsite)*
+- Deployed 3 production React Native apps (Chefadora, Revibe, Blood App) serving **500+ users** on Android & iOS
+- Implemented Firebase Authentication with email/password & social login + Cloud Firestore with **99.9% uptime**
+- Optimized app performance using React memo, useMemo, useCallback, lazy loading & FlatList virtualization — reducing render time by **40%**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [AI-Powered Interview Preparation Coach](https://github.com/Anmolzezx)
+> React Native · TypeScript · Node.js · Express.js · PostgreSQL · Prisma ORM · Google Gemini AI · Redux Toolkit
+
+- Integrated Google Gemini AI to generate **1000+ unique questions** across 15+ interview categories with 95% accuracy
+- Architected PostgreSQL DB with Prisma ORM — 12+ normalized tables, 20+ RESTful APIs, sub-100ms response times, 50+ concurrent sessions
+- Built 8+ features: real-time dashboards, 25+ gamification badges, ML resume parsing, STAR evaluation
+
+### 🚗 [RideFlow — Ride Hailing App](https://github.com/Anmolzezx)
+> React Native · TypeScript · Clerk Auth · Stripe · PostgreSQL · Google Maps · Zustand · Tailwind CSS
+
+- Built an Uber-like ride-hailing app with real-time location tracking and route visualization via Google Maps API
+- Integrated Clerk authentication, Stripe payments, and NeonDB (PostgreSQL) for scalable data management
+- Achieved **95% accuracy** in fare estimation using optimized distance calculation logic
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+### Frontend & Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Tools & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Codeforces Specialist** — Max Rating: **1464** (Top 30% globally)
+- 💡 Solved **500+ DSA problems** on Codeforces & LeetCode
+- ⚡ Improved app render times by **40%** through advanced React Native optimizations
+- 📱 Deployed production apps serving **500+ real users**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmolzezx&show_icons=true&theme=tokyonight&locale=en" alt="anmolzezx" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolzezx&theme=tokyonight" alt="anmolzezx" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolzezx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anmolzezx" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/anmolsingh2060" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/anmol_zez20" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Hunter786" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/anmol_zezx" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:anmolsingh80413@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
