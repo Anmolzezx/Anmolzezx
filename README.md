@@ -34,23 +34,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 [AI-Powered Interview Preparation Coach](https://github.com/Anmolzezx)
-> React Native · TypeScript · Node.js · Express.js · PostgreSQL · Prisma ORM · Google Gemini AI · Redux Toolkit
-
-- Integrated Google Gemini AI to generate **1000+ unique questions** across 15+ interview categories with 95% accuracy
-- Architected PostgreSQL DB with Prisma ORM — 12+ normalized tables, 20+ RESTful APIs, sub-100ms response times, 50+ concurrent sessions
-- Built 8+ features: real-time dashboards, 25+ gamification badges, ML resume parsing, STAR evaluation
-
-### 🚗 [RideFlow — Ride Hailing App](https://github.com/Anmolzezx)
-> React Native · TypeScript · Clerk Auth · Stripe · PostgreSQL · Google Maps · Zustand · Tailwind CSS
-
-- Built an Uber-like ride-hailing app with real-time location tracking and route visualization via Google Maps API
-- Integrated Clerk authentication, Stripe payments, and NeonDB (PostgreSQL) for scalable data management
-- Achieved **95% accuracy** in fare estimation using optimized distance calculation logic
-
----
 
 ## 🛠️ Skills & Technologies
 
