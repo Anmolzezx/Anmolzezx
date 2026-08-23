@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in **Computer Science & Engineering** at JSS Academy of Technical Education, Noida (2022–2026)
-- 💼 Currently working as **SDE Intern at Instafix**, Gurugram
+- 💼 Currently working as **SDE Intern at Valura.Ai**, Dubai (Remote) — building fintech mobile experiences
 - 🚀 Passionate about building **cross-platform mobile apps** and **scalable full-stack systems**
 - 🏆 **Codeforces Specialist** (Max Rating: 1464 | Top 30% globally), solved **500+ DSA problems**
 - 📫 Reach me at **anmolsingh80413@gmail.com**
@@ -21,19 +21,38 @@
 
 ## 💼 Experience
 
-**🔧 Instafix — Software Development Engineer Intern** *(Feb 2026 – Present | Gurugram, Onsite)*
-- Built a React Native diagnostics app for iOS with 20+ reusable UI components across 3 core modules
-- Developed a technician activity tracking app with real-time job monitoring via Google Maps API, reducing update time by **40%**
-- Integrated REST APIs with JWT authentication and AWS cloud services across 10+ endpoints
-- Built a Next.js + TypeScript web platform for online booking/repair with 10+ responsive screens, improving render speed by **30%**
+**💹 Valura.Ai — Software Development Engineer Intern** *(May 2026 – Present | Dubai, UAE · Remote)*
+- Engineered a **Global KYC onboarding flow** for iOS & Android in React Native + TypeScript with dynamic form-rendering architecture, integrating ViewTrade and DigiLocker for identity verification
+- Developed the core **Trade & Invest module** — secure equity order placement, real-time order previews, and dynamic fee calculation over ViewTrade and GTN REST APIs
+- Architected a secure **brokerage session management system** using Expo SecureStore and AsyncStorage to handle auth tokens, platform UUIDs, and automated login fallbacks
+
+**🔧 Instafix — Software Development Engineer Intern** *(Feb 2026 – May 2026 | Gurugram, Onsite)*
+- Built a React Native (Expo) hardware **diagnostics iOS app shipped on the App Store** with 25+ automated device inspection tests
+- Built a cross-platform **field-service app** powering technician workflows: GPS punch-in, parts approvals, and network-resilient image upload (resumable retries, on-device compression, background sync)
+- Added **Firebase Cloud Messaging** job dispatch plus a performance overhaul using **MMKV** and **TanStack Query**
+- Built a **Next.js + TypeScript** booking & repair web platform with 10+ responsive screens and dynamic routing, improving render speed by **30%**
 
 **🔧 Zarle Infotech — Software Developer Intern** *(Aug 2025 – Nov 2025 | Noida, Onsite)*
 - Deployed 3 production React Native apps (Chefadora, Revibe, Blood App) serving **500+ users** on Android & iOS
-- Implemented Firebase Authentication with email/password & social login + Cloud Firestore with **99.9% uptime**
-- Optimized app performance using React memo, useMemo, useCallback, lazy loading & FlatList virtualization — reducing render time by **40%**
+- Engineered secure auth with Firebase Authentication (email/password + social login) and Cloud Firestore for real-time sync with **99.9% uptime**
 
 ---
 
+## 🚀 Projects
+
+**🎯 AI-Powered Interview Preparation Coach** · [GitHub](https://github.com/Anmolzezx)
+`React Native` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma ORM` `Google Gemini AI` `JWT` `Redux Toolkit`
+- Full-stack mobile app with Node.js microservices, integrating the **Google Gemini API** to generate 1000+ unique questions across 15+ interview categories with real-time AI-driven feedback
+- PostgreSQL schema via **Prisma ORM** with 12+ normalized tables and 20+ REST endpoints — sub-100ms responses and 50+ concurrent sessions
+- 8+ features including real-time dashboards, gamification with 25+ badges, ML resume parsing, and **STAR** answer evaluation
+
+**🚕 RideFlow** · [GitHub](https://github.com/Anmolzezx)
+`React Native` `TypeScript` `Clerk Auth` `Stripe` `PostgreSQL (NeonDB)` `Google Maps` `Zustand` `Tailwind CSS`
+- Uber-style ride-hailing app with real-time location tracking, Clerk authentication, and Stripe payments
+- Responsive UI and scalable state flow with **Zustand**
+- Google Maps integration for route visualization, distance calculation, and fare estimation with **95% accuracy**
+
+---
 
 ## 🛠️ Skills & Technologies
 
@@ -48,17 +67,20 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logo=react&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### Tools & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -67,14 +89,18 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+### Core CS
+`Data Structures & Algorithms` · `Operating Systems` · `DBMS` · `OOPS` · `Computer Networks`
+`Unit Testing` · `Code Review` · `Agile/Scrum` · `Microservices`
+
 ---
 
 ## 🏆 Achievements
 
 - 🥇 **Codeforces Specialist** — Max Rating: **1464** (Top 30% globally)
 - 💡 Solved **500+ DSA problems** on Codeforces & LeetCode
-- ⚡ Improved app render times by **40%** through advanced React Native optimizations
-- 📱 Deployed production apps serving **500+ real users**
+- 📱 Shipped a diagnostics app to the **iOS App Store** and 3 production apps serving **500+ real users**
+- 💹 Built **fintech-grade** KYC and trading flows integrating ViewTrade, GTN, and DigiLocker APIs
 
 ---
 
